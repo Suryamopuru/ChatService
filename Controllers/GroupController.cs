@@ -1,7 +1,5 @@
 ﻿using chatService.Data;
 using chatService.Data.Entities;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Http.Connections;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 

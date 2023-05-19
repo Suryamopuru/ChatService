@@ -1,6 +1,5 @@
 using chatService.Data;
 using Microsoft.EntityFrameworkCore;
-using chatService.Controllers;
 
 var builder = WebApplication.CreateBuilder(args);
 
